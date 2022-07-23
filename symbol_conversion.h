@@ -1,2 +1,1 @@
-/* converting from bin or decimal to the new language symobls*/
-
+/* converting from bin or decimal to the new language symobls pleaseeeeeee*/
