@@ -6,6 +6,6 @@
 
 word12* get_data_bin(void);
 void handle_directive(char* pos, char* label, int* DC);
-void reset_data_bin(void);
+void string_handler(line_details line, char* begin, int* DC, long* data_image);
 
 #endif /* DIRECTIVES_HANDLER_H_ */
